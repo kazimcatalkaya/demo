@@ -8,7 +8,7 @@ public class MainClass {
 		// TODO Auto-generated method stub
 
 		denemeSayisi += 9;
-		
+		System.out.println("bu yeni satir uzak depoya eklenecek mi ?");
 	}
 
 }
